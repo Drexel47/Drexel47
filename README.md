@@ -3,11 +3,17 @@
 <h1 align="center">Hola, soy Ignacio Pizarro</h1>
 <h3 align="center">Ingeniero Civil Informatico</h3>
 
-- 🌱 Actualmente estoy viendo **Desarrollo Web (enfocado a Front-End), C++ y Python**
+Soy de Chile, me gusta el apartado Front-End del desarrollo web por la UX
+del usuario. Además, ocasionalmente me dedico a programar con la finalidad de resolver problemas.
 
-- 📫 Contacto **nacho-727@outlook.com**
+Me considero una persona analítica, con un nivel decente para resolver problemas, me desenvuelvo mejor trabajando en equipo aunque puedo llegar a un buen nivel como independiente.
 
-- ⚡ Sobre mi **Me considero una persona analitica**
+
+🌱 Actualmente estoy viendo **Desarrollo Web** (enfocado a Front-End), **C++** y **Python**
+
+📫 **Contacto:** **nacho-727@outlook.com**
+
+
 
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
