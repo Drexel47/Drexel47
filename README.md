@@ -9,9 +9,9 @@ del usuario. Además, ocasionalmente me dedico a programar con la finalidad de r
 Me considero una persona analítica, con un nivel decente para resolver problemas, me desenvuelvo mejor trabajando en equipo aunque puedo llegar a un buen nivel como independiente.
 
 
-🌱 Actualmente estoy viendo **Desarrollo Web** (enfocado a Front-End), **C++** y **Python**
+Actualmente estoy viendo **Desarrollo Web** (enfocado a Front-End), **C++** y **Python**
 
-📫 **Contacto:** **nacho-727@outlook.com**
+
 
 
 
