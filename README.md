@@ -3,14 +3,18 @@
 <h1 align="center">Hola, soy Ignacio Pizarro</h1>
 <h3 align="center">Ingeniero Civil Informatico</h3>
 
-Soy de Chile, me gusta el apartado Front-End del desarrollo web por la UX
-del usuario. Además, ocasionalmente me dedico a programar con la finalidad de resolver problemas.
+# ¡Hola! Soy Ignacio Pizarro 👋
+### Ingeniero Civil en Computación e Informática | Desarrollador & Soporte TI 🇨🇱
 
-Me considero una persona analítica, con un nivel decente para resolver problemas, me desenvuelvo mejor trabajando en equipo aunque puedo llegar a un buen nivel como independiente.
+Me apasiona el desarrollo de software y cómo la tecnología interactúa con las personas. Mi enfoque principal está en el desarrollo web, donde disfruto optimizar la experiencia de usuario (UX) en el Front-End, combinándolo con bases de datos sólidas y lógica eficiente en el Back-End.
+
+Me considero una persona analítica, orientada a la resolución de problemas técnicos y habituada al trabajo colaborativo en equipo, donde creo que se logran los mejores resultados, aunque poseo la autonomía necesaria para liderar proyectos de forma independiente.
 
 
-Actualmente estoy viendo **Desarrollo Web** (enfocado a Front-End), **C++** y **Python**
-
+Actualmente estoy actualmente
+*   💻 Perfeccionando mis habilidades en **Desarrollo Web** (enfoque Front-End y arquitecturas PHP/MySQL).
+*   🐍 Automatización y lógica con **Python** y **C++**.
+*   🔧 Configuración, optimización e infraestructura de servidores dedicados.
 
 
 
